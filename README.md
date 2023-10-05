@@ -1,2 +1,2 @@
-# WSGE
-Waffle's Simple Graphics Engine is an engine for rendering made for my games
+# WSGL
+Waffle's Simple Graphics Library is an engine for rendering made for my games
