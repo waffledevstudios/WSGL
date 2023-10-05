@@ -1,2 +1,2 @@
 # WSGE
-Waffle's Simple Graphics Engine is an engine for rendering made for Waffle Dev Studios' games
+Waffle's Simple Graphics Engine is an engine for rendering made for my games
